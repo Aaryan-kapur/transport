@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
-import ThreeScene from './Three/ThreeScene';
-
+// import Upper from './Upper';
+import Main from './Main'
 class App extends Component {
   render() {
     return (
-      <ThreeScene/>
+    <Main/>
     );
   }
 }

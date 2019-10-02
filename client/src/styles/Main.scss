@@ -1,0 +1,39 @@
+.Nav{
+    width:100%;
+    text-align: center;
+    background-color: white;
+    .title{
+        color:black;
+        font-weight:500;
+        font-size:1.3rem;
+    }
+}
+    .addressing{
+        margin-top: 1rem;
+        margin-left:1rem;
+        font-size:2rem;
+        line-height: 3rem;
+        .name{
+            font-weight: 600;
+            font-size:3rem;
+        }
+
+    }
+
+.rideDetails{
+    text-align: center;
+    margin-top:2rem;
+}
+.buttonSet{
+    text-align: center;
+    width:100%;
+    margin-top:8rem;
+    .button{
+        margin-top:1rem;
+        width:70%;
+        border-radius: 30px;
+    }
+    .buttonBottom{
+        margin-top:10rem;
+    }
+}

@@ -1,0 +1,28 @@
+@import "fonts.scss";
+@import "colors.scss";
+.Upper {
+  text-align: center;
+  .mainUpper {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translateY(-50%);
+    transform: translateX(-50%);
+  }
+  .Uppertext {
+    font-size: 2.5rem;
+    font-weight: 500;
+  }
+  .UpperInput{
+      color:white !important;
+  }
+  .textUpper{
+      font-size:0.7rem;
+  }
+  .submitUpper  {
+      border-radius: 20px !important;
+  }
+}
+.md-form label{
+    color: white !important;
+}
